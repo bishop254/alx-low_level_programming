@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - main function
- * @my_arg:
+ * @my_arg: none
  * Description: prints text using puts
  * Return: 0
  */
