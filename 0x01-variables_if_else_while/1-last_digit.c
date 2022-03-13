@@ -4,7 +4,7 @@
 
 /**
  * main - main function
- * Description: if conditions to check if the last digit of 
+ * Description: if conditions to check if the last digit of
  *              a number is +ve or -ve
  * Return: 0
  */
