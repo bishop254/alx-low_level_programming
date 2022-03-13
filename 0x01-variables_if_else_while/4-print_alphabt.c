@@ -2,7 +2,7 @@
 
 /**
  * main - main function
- * Description: prints lowercase and uppercase alphabets using puts
+ * Description: prints lowercase alphabets except q & e using puts
  * Return: 0
  */
 int main(void)
