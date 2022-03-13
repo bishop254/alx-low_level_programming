@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+/**
+ * main - main function
+ * Description: prints lowercase alphabets using puts
+ * Return: 0
+ */
+int main(void)
+{
+char alpha;
+for (alpha = 'a'; alpha <= 'z'; ++alpha)
+{
+putchar("%c");
+}
+putchar("\n");
+return (0);
+}
