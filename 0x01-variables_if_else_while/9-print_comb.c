@@ -2,7 +2,7 @@
 
 /**
  * main - main function
- * Description: prints all possible combinations 
+ * Description: prints all possible combinations
  * for single-digit numbers using putchar
  * Return: 0
  */
