@@ -28,7 +28,7 @@ if (n > 98)
 for (count = n; count >= 98; count--)
 {
 printf("%d", count);
-if (count > 97)
+if (count > 98)
 {
 printf(", ");
 }
