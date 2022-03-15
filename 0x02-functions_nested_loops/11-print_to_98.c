@@ -2,10 +2,10 @@
 #include <stdio.h>
 
 /**
- * add - main function
+ * print_to_98 - main function
  * Description: prints natural numbers from a specific integer to 98
  * @n: starting point
- * Return: result of addition
+ * Return: void
  */
 
 void print_to_98(int n)
