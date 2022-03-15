@@ -1,18 +1,18 @@
 #include "main.h"
 
 /**
- * main - main function 
+ * main - main function
  * Description: prints _putchar using a custom header
  * The main.h file has a prototype function called _putchar
  * that is linked to a file called _putchar.c
- * Return: 0 
+ * Return: 0
  */
-int main()
+int main(void)
 {
-char mess[] = "_putchar";
-unsigned position;
+char mess[9] = "_putchar";
+int position;
 
-for(position = 0; position < sizeof(mess); position++)
+for (position = 0; position < 8; position++)
 {
 _putchar(mess[position]);
 }
