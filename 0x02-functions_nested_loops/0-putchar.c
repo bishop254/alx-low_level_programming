@@ -9,7 +9,7 @@
  */
 int main()
 {
-char mess[] = '_putchar';
+char mess[] = '\_putchar';
 int position = 0;
 
 while(mess[position] != '\0')
