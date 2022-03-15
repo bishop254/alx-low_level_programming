@@ -9,13 +9,12 @@
  */
 int main()
 {
-char mess[] = '\_putchar';
-int position = 0;
+char mess[] = '_putchar';
+int position;
 
-while(mess[position] != '\0')
+for(position = 0; position < sizeof(mess); position++)
 {
 _putchar(mess[position]);
-position++;
 }
 _putchar('\n');
 return (0);
