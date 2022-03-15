@@ -14,11 +14,13 @@ if (n < 0)
 {
 n *= -1;
 lastD = n % 10;
+_putchar(lastD + '0');
 return (lastD);
 }
 else
 {
 lastD = n % 10;
+_putchar(lastD + '0');
 return (lastD);
 }
 }
