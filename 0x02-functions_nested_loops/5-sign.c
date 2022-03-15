@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_sign: main function
+ * print_sign - main function
  * @n: integer that will be checked if it is +ve or -ve
  * Description: prints the +ve or -ve sign preceeding an integer
  * Return: 1 if sign is +
