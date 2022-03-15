@@ -9,13 +9,13 @@
  */
 int main()
 {
-char mess[] = '_putchar';
+char mess[] = "_putchar";
 int position;
 
 for(position = 0; position < sizeof(mess); position++)
 {
 _putchar(mess[position]);
 }
-_putchar('\n');
+_putchar("\n");
 return (0);
 }
