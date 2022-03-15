@@ -12,4 +12,5 @@ for (char alpha = 'a'; alpha <= 'z'; ++alpha)
 _putchar(alpha);
 }
 _putchar('\n');
+return (0);
 }
