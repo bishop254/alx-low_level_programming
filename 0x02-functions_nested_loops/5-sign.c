@@ -2,11 +2,11 @@
 
 /**
  * print_sign: main function
- * Description: prints the +ve or -ve sign preceeding an integer
  * @n: integer that will be checked if it is +ve or -ve
+ * Description: prints the +ve or -ve sign preceeding an integer
  * Return: 1 if sign is +
- * Return: 0 if n is zero
- * Return: -1 if sign is -
+ * 0 if n is zero
+ * -1 if sign is -
  */
 
 int print_sign(int n)
