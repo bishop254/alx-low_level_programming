@@ -2,7 +2,7 @@
 
 /**
  * print_alphabet_x10 - main function for printing alphabets
- * Description: prints the alphabet ten times 
+ * Description: prints the alphabet ten times
  * using a custom header file function.
  * Return: void
  */
