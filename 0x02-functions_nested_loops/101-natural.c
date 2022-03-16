@@ -19,6 +19,10 @@ else if (num % 5 == 0)
 {
 sum += num;
 }
-return (sum);
+else
+{
+continue;
 }
+}
+return (sum);
 }
