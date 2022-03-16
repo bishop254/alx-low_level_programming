@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 /**
  * main - main function
  * Description: prints the sum of natural numbers below 1024
@@ -24,5 +26,6 @@ else
 continue;
 }
 }
+printf(sum);
 return (sum);
 }
