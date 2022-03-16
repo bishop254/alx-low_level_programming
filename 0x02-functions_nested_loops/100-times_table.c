@@ -20,7 +20,7 @@ for (count = 0; count <= n; count++)
 {
 result = factor * count;
 
-if (result > n)
+if (result => n)
 {
     _putchar((result / 10) + '0');
     _putchar((result % 10) + '0');
