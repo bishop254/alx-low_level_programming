@@ -26,6 +26,5 @@ else
 continue;
 }
 }
-printf(&sum);
 return (sum);
 }
