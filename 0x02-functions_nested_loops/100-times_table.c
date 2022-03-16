@@ -11,7 +11,10 @@
 void print_times_table(int n)
 {
 int factor, count, result;
-if (n < 0 || n > 15) return;
+if (n < 0 || n > 15) 
+{
+return;
+}
 for (factor = 0; factor <= n; factor++)
 {
 for (count = 0; count <= n; count++)
