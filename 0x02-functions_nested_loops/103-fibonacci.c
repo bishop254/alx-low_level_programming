@@ -2,7 +2,7 @@
 
 /**
  * main - main function
- * Description: prints the first 50 even Fibonacci numbers 
+ * Description: prints the first 50 even Fibonacci numbers
  * whose value is less than 4000000
  * Return: 0
  */
