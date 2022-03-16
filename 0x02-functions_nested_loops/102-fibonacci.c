@@ -7,7 +7,7 @@
  */
 int main(void)
 {
-int i, count;
+int i;
 int f1 = 1, f2 = 2;
 int nextNum = f1 + f2;
 
