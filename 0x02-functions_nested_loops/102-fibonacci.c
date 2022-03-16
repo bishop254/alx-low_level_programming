@@ -19,6 +19,10 @@ printf("%lu, ",nextNum);
 f1 = f2;
 f2 = nextNum;
 nextNum = f1 + f2;
+if (i == 50)
+{
+printf("%lu",nextNum);
+}
 }
 return (0);
 }
