@@ -9,7 +9,7 @@
 int main(void)
 {
 int i;
-long int f1 = 1, f2 = 2;
+long int f1 = 0, f2 = 1;
 long int nextNum = f1 + f2;
 long int sum = 0;
 
