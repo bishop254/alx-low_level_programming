@@ -26,6 +26,6 @@ else
 continue;
 }
 }
-printf(sum);
+puts(sum);
 return (sum);
 }
