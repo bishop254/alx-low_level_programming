@@ -52,4 +52,8 @@ _putchar(' ');
 _putchar('\n');
 }
 }    
+else
+{
+return ;
+}
 }
