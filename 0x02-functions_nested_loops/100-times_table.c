@@ -12,7 +12,11 @@ void print_times_table(int n)
 {
 int factor;
 int count, result;
-if (n > 0 || n < 16)
+if (n > 15 || n < 0)
+{
+return;
+}
+else
 {
 for (factor = 0; factor <= n; factor++)
 {
@@ -52,8 +56,4 @@ _putchar(' ');
 _putchar('\n');
 }
 }    
-else
-{
-return ;
-}
 }
