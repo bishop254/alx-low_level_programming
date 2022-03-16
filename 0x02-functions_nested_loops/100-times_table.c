@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * times_table - main function
+ * print_times_table - main function
  * @n: Is the last multiple we should calculate
  * Description: prints the multiplication table from 0 to n
  * Should not print if n > 15 or n < 0
@@ -22,9 +22,9 @@ result = factor * count;
 
 if (result > 99)
 {
-    _putchar((result / 100) + '0');
-    _putchar((result / 10 % 10) + '0');
-    _putchar((result % 10) + 0);
+_putchar((result / 100) + '0');
+_putchar((result / 10 % 10) + '0');
+_putchar((result % 10) + 0);
 }
 else if (result > 9)
 {
@@ -34,6 +34,7 @@ _putchar((result % 10) + '0');
 }
 else if (count != 0)
 {
+_putchar(' ');
 _putchar(' ');
 _putchar(result + '0');
 }
@@ -49,6 +50,6 @@ _putchar(' ');
 }
 }
 _putchar('\n');
-}    
+}
 }    
 }
