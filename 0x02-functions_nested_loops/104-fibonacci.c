@@ -16,7 +16,7 @@ printf("%lu, %lu, ", f1, f2);
 for (i = 3; i <= 98; ++i)
 {
 printf("%lu", nextNum);
-if (i < 50)
+if (i < 98)
 {
 printf(", ");
 }
