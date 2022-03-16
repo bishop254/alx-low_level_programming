@@ -15,14 +15,15 @@ printf("%lu, %lu, ", f1, f2);
 
 for (i = 3; i <= 50; ++i)
 {
-printf("%lu, ",nextNum);
+printf("%lu", nextNum);
+if (i < 50)
+{
+printf(", ");
+}
 f1 = f2;
 f2 = nextNum;
 nextNum = f1 + f2;
-if (i == 50)
-{
-printf("%lu",nextNum);
 }
-}
+printf("\n");
 return (0);
 }
