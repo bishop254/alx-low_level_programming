@@ -8,8 +8,8 @@
 int main(void)
 {
 int i;
-int f1 = 1, f2 = 2;
-int nextNum = f1 + f2;
+long int f1 = 1, f2 = 2;
+long int nextNum = f1 + f2;
 
 printf("%d, %d, ", f1, f2);
 
