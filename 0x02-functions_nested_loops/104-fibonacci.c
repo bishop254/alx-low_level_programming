@@ -8,7 +8,7 @@
 int main(void)
 {
 int i;
-long int f1 = 1, f2 = 2;
+unsigned long int f1 = 1, f2 = 2;
 long int nextNum = f1 + f2;
 
 printf("%lu, %lu, ", f1, f2);

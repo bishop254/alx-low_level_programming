@@ -17,7 +17,7 @@ for (i = 0; i <= 50; ++i)
 {
 f1 = f2;
 f2 = nextNum;
-nextNum = f1 + f2;
+long int sum = 0;
 if (nextNum < 4000000)
 {
 if (nextNum % 2 == 0)
