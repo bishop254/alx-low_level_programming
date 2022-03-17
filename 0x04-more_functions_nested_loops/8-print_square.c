@@ -3,7 +3,7 @@
 /**
  * print_square - main function
  * @size: measure of the squares' side
- * Description: prints a square on the terminal
+ * Description: prints a square on the terminal using "#"
  * Return: void
  */
 
@@ -17,7 +17,7 @@ _putchar('\n');
 }
 else
 {
-for(s2 = 0; s2 < size; s2++)
+for (s2 = 0; s2 < size; s2++)
 {
 for (s1 = 0; s1 < size; s1++)
 {
