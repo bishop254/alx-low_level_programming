@@ -3,7 +3,7 @@
 /**
  * _isdigit - main function
  * @c: character to be checked
- * Description: checks if character is a number between 0 - 9 
+ * Description: checks if character is a number between 0 - 9
  * Return: 1 if c is a digit, otherwise 0
  */
 int _isdigit(int c)
