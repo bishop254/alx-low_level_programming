@@ -14,8 +14,6 @@ int a;
 char str1[] = "Fizz", str2[] = "Buzz", str3[] = "FizzBuzz";
 for (a = 1; a <= 100; a++)
 {
-if (a <= 100)
-{
 if ((a % 5 == 0) && (a % 3 == 0))
 {
 printf("%s ", str3);
@@ -32,6 +30,9 @@ else
 {
 printf("%d ", a);
 }
+if (a != 100)
+{
+printf(" ");
 }
 }
 printf("\n");
