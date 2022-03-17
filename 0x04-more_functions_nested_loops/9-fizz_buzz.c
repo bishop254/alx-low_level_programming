@@ -2,9 +2,8 @@
 
 /**
  * main - main function
- * Description: prints numbers between 1 to 100
- * Prints Fizz if it is divisible by 3
- * Prints Buzz if it is divisible by 5
+ * Description: prints numbers between 1 to 100 where it
+ * Multiples of 3 print Fizz and Prints Buzz if it is divisible by 5
  * Prints FizzBuzz if it is divisible by both 3 and 5
  * Return: 0
  */
@@ -13,7 +12,6 @@ int main(void)
 {
 int a;
 char str1[] = "Fizz", str2[] = "Buzz", str3[] = "FizzBuzz";
-
 for (a = 1; a <= 100; a++)
 {
 if (a <= 100)
