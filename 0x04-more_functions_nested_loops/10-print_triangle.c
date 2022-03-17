@@ -28,5 +28,6 @@ for (h; h > 0; h--)
 _putchar(35);
 }
 _putchar('\n');
+return;
 }
 }
