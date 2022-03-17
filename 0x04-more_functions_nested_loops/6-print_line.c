@@ -18,7 +18,7 @@ else
 {
 for (count = 0; count <= n; count++)
 {
-_putchar('95');
+_putchar(95);
 }
 _putchar('\n');
 }
