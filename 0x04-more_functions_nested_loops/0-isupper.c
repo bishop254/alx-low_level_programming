@@ -13,18 +13,10 @@ for (alpha = 'A'; alpha <= 'Z'; ++alpha)
 {
 if (alpha == c)
 {
-// _putchar(c);
-// _putchar(58);
-// _putchar(' ');
-// _putchar(1 + '0');
 return (1);
 }
 else
 {
-// _putchar(c);
-// _putchar(58);
-// _putchar(' ');
-// _putchar(0 + '0');
 return (0);
 }
 }
