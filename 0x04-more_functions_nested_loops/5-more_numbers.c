@@ -18,5 +18,6 @@ _putchar(num + '0');
 _putchar('\n');
 count++;
 }
+_putchar('\n');
 return;
 }
