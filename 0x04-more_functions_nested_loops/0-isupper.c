@@ -9,15 +9,12 @@
 int _isupper(int c)
 {
 char alpha;
-for (alpha = 'A'; alpha <= 'Z'; ++alpha)
-{
-if (alpha == c)
+if (c >= 'A' && c <= 'Z')
 {
 return (1);
 }
 else
 {
 return (0);
-}
 }
 }
