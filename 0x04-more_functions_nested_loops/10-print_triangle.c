@@ -9,7 +9,7 @@
 
 void print_triangle(int size)
 {
-int count, b, h;
+int count, x, y, h, b;
 b = size - 1;
 if (size <= 0)
 {
@@ -21,16 +21,18 @@ for (count = 0; count < size; count++)
 {
 b = size - count - 1;
 h = count + 1;
-for (b; b > 0; b--)
+while (b > 0)
 {
 _putchar(' ');
+b--;
 }
-for (h; h > 0; h--)
+while (h > 0)
 {
 _putchar(35);
-} 
+h--;
 }
 _putchar('\n');
+}
 return;  
 }
 }
