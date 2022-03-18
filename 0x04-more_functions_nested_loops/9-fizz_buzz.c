@@ -16,15 +16,15 @@ for (a = 1; a <= 100; a++)
 {
 if ((a % 5 == 0) && (a % 3 == 0))
 {
-printf("%s ", str3);
+printf("%s", str3);
 }
 else if (a % 5 == 0)
 {
-printf("%s ", str2);
+printf("%s", str2);
 }
 else if (a % 3 == 0)
 {
-printf("%s ", str1);
+printf("%s", str1);
 }
 else
 {
