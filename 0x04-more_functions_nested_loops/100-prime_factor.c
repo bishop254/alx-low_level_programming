@@ -8,7 +8,7 @@
  */
 int main(void)
 {
-long n = 61285475143;
+long n = 1231952;
 int maxNum = 0;
 
 while (n % 2 == 0)
