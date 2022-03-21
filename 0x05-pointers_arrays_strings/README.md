@@ -23,3 +23,6 @@ Prints every other character of a string(SKIPS ONE CHAR) beginning with the firs
 
 ## 7-puts_half.c
 Prints second half of a string followed by a new line.
+
+## 8-print_array.c
+Prints n elements of an array of integers.
