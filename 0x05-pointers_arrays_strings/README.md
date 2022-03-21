@@ -26,3 +26,6 @@ Prints second half of a string followed by a new line.
 
 ## 8-print_array.c
 Prints n elements of an array of integers.
+
+## 9-strcpy.c
+Copies string pointed to by a pointer to the string pointed by another pointer.
