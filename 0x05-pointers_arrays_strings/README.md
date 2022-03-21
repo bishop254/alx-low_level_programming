@@ -22,4 +22,4 @@ Reverses a string.
 Prints every other character of a string(SKIPS ONE CHAR) beginning with the first character.
 
 ## 7-puts_half.c
-Prints half of a string followed by a new line.
+Prints second half of a string followed by a new line.
