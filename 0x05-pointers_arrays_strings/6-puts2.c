@@ -20,5 +20,5 @@ for (c = 0; c < i; c = c + 2)
 {
 _putchar(str[c]);
 }
-_putchar('\0');
+_putchar('\n');
 }
