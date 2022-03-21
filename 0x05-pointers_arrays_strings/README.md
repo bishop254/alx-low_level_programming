@@ -17,3 +17,6 @@ Prints a string in reverse.
 
 ## 5-rev_string.c
 Reverses a string.
+
+## 6-puts2.c
+Prints every other character of a string(SKIPS ONE CHAR) beginning with the first character.
