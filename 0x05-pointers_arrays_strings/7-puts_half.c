@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * puts_half: main function.
+ * puts_half - main function.
  * Description: Prints half of a string
  * @str: pointer to a string variable
  * Return: void

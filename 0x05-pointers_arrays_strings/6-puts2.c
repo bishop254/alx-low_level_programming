@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * puts2: main function.
+ * puts2 - main function.
  * Description: Prints every other character of a string(SKIPS ONE CHAR)
  * beginning with the first character
  * @str: pointer to a string variable

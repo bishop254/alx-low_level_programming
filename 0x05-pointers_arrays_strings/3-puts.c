@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _puts: main function
+ * _puts - main function
  * Description: Prints a string to standard output
  * @str: pointer to a str variable
  * Return: void
