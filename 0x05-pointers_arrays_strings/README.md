@@ -29,3 +29,6 @@ Prints n elements of an array of integers.
 
 ## 9-strcpy.c
 Copies string pointed to by a pointer to the string pointed by another pointer.
+
+## 100-atoi.c
+Used to convert a string into a number.
