@@ -12,8 +12,8 @@ Finds the length of a string.
 ## 3-puts.c
 Prints to stdout followed by a new line.
 
-##
-
+## 4-print_rev.c
+Prints a string in reverse
 
 ##
 
