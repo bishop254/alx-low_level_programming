@@ -13,7 +13,7 @@ Finds the length of a string.
 Prints to stdout followed by a new line.
 
 ## 4-print_rev.c
-Prints a string in reverse
+Prints a string in reverse.
 
-##
-
+## 5-rev_string.c
+Reverses a string.
