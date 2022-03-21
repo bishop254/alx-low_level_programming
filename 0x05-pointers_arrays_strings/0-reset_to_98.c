@@ -2,7 +2,7 @@
 
 /**
  * reset_to_98: main function
- * @n: pointer to a interger variable
+ * @n: pointer to an interger variable
  * Description: Updates the value the pointer points to to be 98
  * Return: void
  */
