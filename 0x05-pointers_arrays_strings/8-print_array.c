@@ -19,6 +19,6 @@ while (i < n)
 printf(", ");
 }
 }
-printf('\n');
+printf("\n");
 return;
 }
