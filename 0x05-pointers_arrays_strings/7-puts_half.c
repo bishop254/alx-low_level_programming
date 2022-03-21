@@ -24,7 +24,7 @@ for (j = len_start; j < i; j++)
 _putchar(str[j]);
 }
 }
-else 
+else
 {
 len_start = (i - 1) / 2;
 for (j = len_start + 1; j < i; j++)
