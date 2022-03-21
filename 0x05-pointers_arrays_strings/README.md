@@ -9,8 +9,8 @@ Swaps the values of the two arguments.
 ## 2-strlen.c
 Finds the length of a string.
 
-##
-
+## 3-puts.c
+Prints to stdout followed by a new line.
 
 ##
 
