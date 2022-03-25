@@ -1,12 +1,13 @@
 #include "main.h"
 
 /**
- * reverse_array - main function.
- * @c: any character or string
+ * string_toupper - main function.
+ * @c: Pointer to string
  * Description: Converts lowercase to uppercase
  * Return: Converted lowercase characters.
  */
-char *string_toupper(char *c){
+char *string_toupper(char *c)
+{
 int temp = 0;
 
 while (c[temp] != '\0')
