@@ -22,7 +22,6 @@ while (c[i] == 't' || c[i] == 'T')
 c[i] = '7';
 while (c[i] == 'l' || c[i] == 'L')
 c[i] = '1';
-i++;
 }
 return (c);
 }
